@@ -1,0 +1,23 @@
+{
+  "name": "clear-i18n-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for simple and clear i18n.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LastLeaf/clear-i18n-loader.git"
+  },
+  "author": "Fu Boquan (LastLeaf)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LastLeaf/clear-i18n-loader/issues"
+  },
+  "homepage": "https://github.com/LastLeaf/clear-i18n-loader#readme",
+  "dependencies": {
+    "loader-utils": "~0.2.12",
+    "mkdirp": "^0.5.1"
+  }
+}
